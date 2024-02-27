@@ -35,7 +35,11 @@ Comment est racontée l'histoire ?
 <image src="./images/24-02-27_player-civ-moodboard-v2.png">
 
 **Visual research**
+
+
 https://github.com/fly04/diploma-project/assets/46554723/1cb64461-7780-4c29-912a-568d6f7b0e0c
+
+
 
 ## Gameplay
 Le gameplay est centré autour du mouvement.
@@ -57,8 +61,14 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 <image src="./images/24-02-27_storyboard-propel-vert.png">
 
 ### Prototyping
+
+
 https://github.com/fly04/diploma-project/assets/46554723/7f88cc49-fd57-468c-aa7b-c1084fea2889
+
+
 https://github.com/fly04/diploma-project/assets/46554723/97dae183-bba9-4159-88fd-8ddfc144b4a7
+
+
 
 ## Game Structure
 
