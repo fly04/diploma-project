@@ -54,11 +54,11 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 
 ### Storyboards
 - Glisse
-<image src="./images/24-02-27_storyboard-slide.png">
+<image style="width: 800px;" src="./images/24-02-27_storyboard-slide.png">
 - Propulsion horizontale
-<image src="./images/24-02-27_storyboard-propel-horiz.png">
+<image style="width: 800px;" src="./images/24-02-27_storyboard-propel-horiz.png">
 - Propulsion verticale
-<image src="./images/24-02-27_storyboard-propel-vert.png">
+<image style="width: 800px;" src="./images/24-02-27_storyboard-propel-vert.png">
 
 ### Prototyping
 
