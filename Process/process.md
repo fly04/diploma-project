@@ -26,13 +26,13 @@ Comment est racontée l'histoire ?
 - Contradiction entre manque d'énergie au village et présence de stations de recharge dans l'environnement
 
 **Environment Moodboard**
-<image src="./images/24-02-27_env-moodboard.png">
+<image src="./images/24-02-27_env-moodboard-v2.png">
 
 **Ancient Civilization Moodboard**
-<image src="./images/24-02-27_civ-moodboard.png">
+<image src="./images/24-02-27_civ-moodboard-v2.png">
 
 **Player's Civilization Moodboard**
-<image src="./images/24-02-27_player-civ-moodboard.png">
+<image src="./images/24-02-27_player-civ-moodboard-v2.png">
 
 **Visual research**
 
@@ -68,7 +68,7 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 
 Exemple de circulation chart *(comment modérer le nombre de poi que le joueur va ajouter à sa liste interne en une seule fois =/= comment le joueur doit explorer)*
 
-<image src="./images/24-02-27_circulation-chart.png">
+<image src="./images/24-02-27_circulation-chart-v2.png">
 
 Le jeu altèrne entre :
 - phase d'exploration dans l'environnement ouvert : cherche de points d'intérêt, rencontre d'autres explorateurs, recherche de stations de recharge
@@ -78,7 +78,7 @@ Le jeu altèrne entre :
 L'interface est minimaliste. Idéalement, le maximum d'information est présentée de manière intradiégétique. Par exemple, la barre de propulsion est représentée par un objet sur le personnage.
 
 - Exemples (Astroneer, Deadspace) :
-<image style="width:500px" src="./images/24-02-27_interface-example.png">
+<image style="width:500px" src="./images/24-02-27_interface-example-v2.png">
 
 ## Intentions
 - Sense of freedom while exploring (fluid movements, rythm)
