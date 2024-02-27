@@ -70,7 +70,6 @@ Exemple de circulation chart *(comment modérer le nombre de poi que le joueur v
 
 <image src="./images/24-02-27_circulation-chart.png">
 
-
 Le jeu altèrne entre :
 - phase d'exploration dans l'environnement ouvert : cherche de points d'intérêt, rencontre d'autres explorateurs, recherche de stations de recharge
 - phase d'exploration dans les structures de l'ancienne civilisation : plateforming, découverte de la narration environnementale
@@ -79,7 +78,7 @@ Le jeu altèrne entre :
 L'interface est minimaliste. Idéalement, le maximum d'information est présentée de manière intradiégétique. Par exemple, la barre de propulsion est représentée par un objet sur le personnage.
 
 - Exemples (Astroneer, Deadspace) :
-<image src="./images/24-02-27_interface-example.png">
+<image style="width:500px" src="./images/24-02-27_interface-example.png">
 
 ## Intentions
 - Sense of freedom while exploring (fluid movements, rythm)

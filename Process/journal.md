@@ -1,5 +1,5 @@
 # 2024-027
-- Presentation preparation (repo setup, recap, moodboards, storyboards)
+- Préparation de la présentation (repo setup, recap, moodboards, storyboards, vidéos)
 
 # 2024-02-26
 - Call with Stéphanie
