@@ -58,6 +58,7 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 
 ### Prototyping
 https://github.com/fly04/diploma-project/assets/46554723/7f88cc49-fd57-468c-aa7b-c1084fea2889
+https://github.com/fly04/diploma-project/assets/46554723/97dae183-bba9-4159-88fd-8ddfc144b4a7
 
 ## Game Structure
 
