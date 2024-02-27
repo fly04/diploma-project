@@ -19,11 +19,13 @@ Comment est racontée l'histoire ?
 - Narration environnementale
 - Dialogues avec les autres explorateurs
 
-**Plot holes**
+**Plot holes/Trucs à définir**
 - Pourquoi le joueur part à l’aventure ?
 - Comment l'ancienne civilisation a disparu ? Déclin lent ou disparition soudaine ?
 - Qu'est-ce que l'ancienne civilisation cherchait à faire? Pourquoi cherchaient-ils une source d'énergie puissante ?
 - Contradiction entre manque d'énergie au village et présence de stations de recharge dans l'environnement
+- Expliquer la présence des structures de l'ancienne civilisation dans l'environnement
+- Quelles sont les attentes du village vis-à-vis de leur propulseur? Est-ce qu'ils ont fait exprès qu'il soit rechargeable avec les anciennes stations de recharge?
 
 **Environment Moodboard**
 <image src="./images/24-02-27_env-moodboard-v2.png">
