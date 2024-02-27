@@ -1,3 +1,3 @@
 # Diploma Project
 
-<a href="process/process.md>Process</a>
+<a href="./process/process.md">Process</a>
