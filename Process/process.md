@@ -35,7 +35,7 @@ Comment est racontée l'histoire ?
 <image src="./images/24-02-27_player-civ-moodboard-v2.png">
 
 **Visual research**
-
+https://github.com/fly04/diploma-project/assets/46554723/1cb64461-7780-4c29-912a-568d6f7b0e0c
 
 ## Gameplay
 Le gameplay est centré autour du mouvement.
@@ -57,7 +57,7 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 <image src="./images/24-02-27_storyboard-propel-vert.png">
 
 ### Prototyping
-
+https://github.com/fly04/diploma-project/assets/46554723/7f88cc49-fd57-468c-aa7b-c1084fea2889
 
 ## Game Structure
 
@@ -68,7 +68,7 @@ La propulstion est limitée et doit être rechargée en se tenant près d'une st
 
 Exemple de circulation chart *(comment modérer le nombre de poi que le joueur va ajouter à sa liste interne en une seule fois =/= comment le joueur doit explorer)*
 
-<image src="./images/24-02-27_circulation-chart-v2.png">
+<image style="width: 500px;" src="./images/24-02-27_circulation-chart-v2.png">
 
 Le jeu altèrne entre :
 - phase d'exploration dans l'environnement ouvert : cherche de points d'intérêt, rencontre d'autres explorateurs, recherche de stations de recharge
