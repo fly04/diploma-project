@@ -2,7 +2,7 @@
 
 ## Game overview
 
-A game third person 3D exploration game about a world plunged into a never-ending winter. The player is an explorer from a village/tribe who goes on an adventure to find a new source of energy for the survival of his people. The player will explore the world, find ancient and mysterious structures, and meet other explorers and eventually learn what happened to the world and the ancient civilization throught a fragmented narrative.
+A third person 3D exploration game about a world plunged into a never-ending winter. The player is an explorer from a village/tribe who goes on an adventure to find a new source of energy for the survival of his people. Revolving around movement, the player will explore the world, find ancient and mysterious structures, and meet other explorers and eventually learn what happened to the world and the ancient civilization throught a fragmented narrative.
 
 ## Story, setting and characters
 
