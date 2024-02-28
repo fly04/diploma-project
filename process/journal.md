@@ -1,4 +1,7 @@
-# 2024-027
+# 2024-02-28
+- Présentation
+
+# 2024-02-27
 - Préparation de la présentation (repo setup, recap, moodboards, storyboards, vidéos)
 
 # 2024-02-26
