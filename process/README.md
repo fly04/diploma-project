@@ -1,3 +1,16 @@
+# Character controller stuff (2024-02-29)
+## Tutoriels
+Mon plan est de me baser sur un character controller provenant de tutoriels et de construire sur cette base pour mécaniques et interactions spécifiques à mon projet. J'ai commencé par suivre cette [série de vidéos](https://www.youtube.com/playlist?list=PLh9SS5jRVLAleXEcDTWxBF39UjyrFc6Nb), toutefois je me rend compte que la manière dont ce dernier est conçu ne répond pas à mes attentes. Notamment le fait que beaucoup de hacks sont utilisés pour la gestion des slopes ce qui rend le fait de construire par dessus très compliqué.
+
+Sur la base des problèmes rencontrés, j'ai cherché d'autres séries de vidéos davantage adaptées à mes besoins. Pour les deux prochains jours, je prévois de travailler sur [cette approche](https://www.youtube.com/playlist?list=PLxAJ_iP7Q93v70WAqtPoA8MYNLJeIKvPU) qui d'après les passages que j'ai regardé me paraît beaucoup plus détaillée (en termes d'explications et de fonctionnalités) et solide.
+
+## Considérations sur la glisse
+En travaillant sur mon character controller, certains questions ont émergé concernant la mécanique de glisse :
+- Dans beaucoup de jeux, il y a deux cas de figure par rapport aux slopes : soit la pente a un angle plus grand que la pente maximale que le joueur peut monter alors lorsqu'il est dessus il glisse doucement vers le bas et lorsque il est en bas et qu'il essaie de monter il ne peut pas, soit la pente a un angle plus petit et le joueur peut monter et descendre dessus (parfois avec un multiplicateur de vitesse en fonction de l'angle).
+- Comment intégrer le fait de pouvoir glisser pour traverser de grandes étendues (composées à la fois de dénivellés ayant de grandes et petites pentes) ? Pour le cas de la descente d'une pente ayant un angle plus grand que le treshold, il joueur doit simplement se diriger vers la pente ce qui le fera passer en mode glisse. Pour le cas où l'angle de la pente est plus petit que le threshold, comment est-ce que le joueur fait pour passer en mode glisse ?
+    - Une possibilité serait de faire passer en "mode glisse" sur un input, toutefois si c'est le cas je trouverais ça bizarre que lorsque le joueur descend une pente qui dépasse le treshold, il passe en mode glisse automatiquement et que d'autres fois il doive appuyer sur un bouton.
+    - L'approche que je vais essayer est de faire en sorte que le joueur passe en mode glisse lorsqu'il dépasse une certaine vitesse (en prenant en compte que selon l'angle de la pente, il se déplace plus ou moins vite). Un éventuel problème serait que le joueur puisse passer en mode glisse lorsqu'il ne le souhaite pas, mais à priori cela devrait pouvoir être gérable avec une inclinaison plus ou moins grande du joystick (à vérifer avec des playtest).
+
 # Let's try to recap what I have for now (2024-02-27)
 
 ## Game overview
