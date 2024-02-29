@@ -1,4 +1,4 @@
-# Character controller stuff (2024-02-29)
+# Character controller stuff (2024-02-28)
 ## Tutoriels
 Mon plan est de me baser sur un character controller provenant de tutoriels et de construire sur cette base pour mécaniques et interactions spécifiques à mon projet. J'ai commencé par suivre cette [série de vidéos](https://www.youtube.com/playlist?list=PLh9SS5jRVLAleXEcDTWxBF39UjyrFc6Nb), toutefois je me rend compte que la manière dont ce dernier est conçu ne répond pas à mes attentes. Notamment le fait que beaucoup de hacks sont utilisés pour la gestion des slopes ce qui rend le fait de construire par dessus très compliqué.
 
