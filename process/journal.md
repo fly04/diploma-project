@@ -1,3 +1,10 @@
+# 2024-03-01
+- Finished tutorial
+- Attempts at implementing sliding
+
+# 2024-02-29
+- Unity prototyping (essai d'une autre approche pour le mouvement)
+
 # 2024-02-28
 - Présentation
 - Unity prototyping
