@@ -1,3 +1,6 @@
+# 2024-03-04
+- Attempts at implementing sliding (works ~ok on flat slopes, not on irregular terrain, might have to try accumulating forces instead of setting velocity directly to make smoother movements) 
+
 # 2024-03-01
 - Finished tutorial
 - Attempts at implementing sliding
