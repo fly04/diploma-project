@@ -1,3 +1,6 @@
+# 2024-03-05
+- Attempts at implementing sliding (irregular terrain still not working, trying other approaches)
+
 # 2024-03-04
 - Attempts at implementing sliding (works ~ok on flat slopes, not on irregular terrain, might have to try accumulating forces instead of setting velocity directly to make smoother movements) 
 
