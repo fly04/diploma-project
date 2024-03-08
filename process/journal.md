@@ -1,3 +1,12 @@
+# 2024-03-08
+- Attempts at implementing sliding (je crois que ça marche enfin!)
+
+# 2024-03-07
+- Attempts at implementing sliding (back to adding forces)
+
+# 2024-03-06
+- Attempts at implementing sliding (testing setting velocity directly instead of adding forces)
+
 # 2024-03-05
 - Attempts at implementing sliding (irregular terrain still not working, trying other approaches)
 
