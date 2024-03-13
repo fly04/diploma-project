@@ -1,5 +1,6 @@
 # 2024-03-12
-- 
+- Unity prototyping
+- Lore and level design brainstorming
 
 # 2024-03-12
 - Forgot my laptop charger at home (3h30 away...) so I looked at and gathered game design stuff and references on my phone
