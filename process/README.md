@@ -1,3 +1,20 @@
+# More on character controller and level design process (2024-03-13)
+## Retours sur les tutoriels
+J'ai terminé la série de tutoriel mentionnée précédemment. Toutefois, j'ai rencontré certains problèmes avec le fonctionnement proposé. J'ai donc décidé de faire des tests personnels avec toutes les manières que j'ai pu voir passer jusqu'ici, à savoir utiliser un character controller, utiliser un rigidbody en fixant manuellement la vélocité et utiliser un rigidbody en lui appliquant des forces. Finalement, j'ai choisi de travailler avec cette dernière solution car, si elle ne me permet pas d'être aussi précis que en défissant la vélocité, elle me permet plus facilement de gérer les différents cas de figures.
+
+## Considérations sur la glisse
+Activer l'état de glisse automatiquement semble finalement ne pas être la bonne solution. Le joueur est moins en contrôle ce qui rend la mécanique moins intéressante. La solution retenue jusqu'ici est que si le joueur dépasse une certaine vitesse et appuie sur un bouton, il se met à glisser. Concernant le problème de mélanger la glisse en tant que mécanique et le fait de glisser sur une pente trop raide, il me semble qu'il suffirait de les considérer différemment et que cela se soit visuellement pour ne pas créer de confusion.
+
+## Level design
+Ayant une idée plus claire de mes mécaniques, j'ai commencé à réflechir au level design en m'inspirant [du process de Steve Lee](https://www.youtube.com/watch?v=0FSssDWEFLc) consistant à penser son niveau avec du texte, mes premières itérations sont [ici](./leveldesign.md).
+
+## Ancienne civilisation
+Je réflechissais à quoi ressembleraient 'les interfaces' de l'ancienne civilisation avec lesquelles le joueur pourrait interagir pour débloquer de nouveaux passages. En gros, à quoi ressemblent les boutons et leviers de cette civilisation ? J'aimerais m'éloigner de l'aspect mécanique d'un levier ou d'un bouton pour quelque chose de plus mystérieux, plus proche du fantastique. 
+
+En brainstormant, l'idée de "maquettes" que les anciens manipulaient pour modifier la réalité m'a plu, des sortes de "poupées vaudous" dont les effets seraient répliqués sur le monde réel. En jeu, cela se tradurait par une simple interaction avec la maquette (genre appuyer sur X pour interagir), par exemple face à un pont détruit, le joueur pourrait interagir avec sa maquette dans un autre lieu pour le "reconstruire". Cela pourrait peut-être également me permettre de créer des puzzles basés sur cette mécanique (activer des trucs selon une bonne séquence?). 
+
+Maintenant à voir comment je peux rattacher ça aux éléments de lore que j'avais établi pour l'ancienne civilisation et si je peux l'étendre à d'autres situations.
+
 # Character controller stuff (2024-02-28)
 ## Tutoriels
 Mon plan est de me baser sur un character controller provenant de tutoriels et de construire sur cette base pour mécaniques et interactions spécifiques à mon projet. J'ai commencé par suivre cette [série de vidéos](https://www.youtube.com/playlist?list=PLh9SS5jRVLAleXEcDTWxBF39UjyrFc6Nb), toutefois je me rend compte que la manière dont ce dernier est conçu ne répond pas à mes attentes. Notamment le fait que beaucoup de hacks sont utilisés pour la gestion des slopes ce qui rend le fait de construire par dessus très compliqué.

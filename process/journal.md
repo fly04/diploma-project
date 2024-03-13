@@ -1,3 +1,12 @@
+# 2024-03-12
+- 
+
+# 2024-03-12
+- Forgot my laptop charger at home (3h30 away...) so I looked at and gathered game design stuff and references on my phone
+
+# 2024-03-11
+- OFF (medical issue)
+
 # 2024-03-08
 - Attempts at implementing sliding (je crois que ça marche enfin!)
 
