@@ -1,4 +1,8 @@
-# 2024-03-12
+# 2024-03-14
+- Call with Stéphanie
+- Slide Jump prototyping
+
+# 2024-03-13
 - Unity prototyping
 - Lore and level design brainstorming
 

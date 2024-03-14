@@ -51,7 +51,6 @@ WHY ARE THOSE MECHANICS INTERESTING ?
 (types of gameplay, phases, situations, key moments,...)
 - (Platforming)
 
-
 - Traversal from PoI to PoI
 - Starting with limited movement understanding
 - Getting to move around easily
