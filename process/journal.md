@@ -1,6 +1,7 @@
 # 2024-03-14
 - Call with Stéphanie
 - Slide Jump prototyping
+- Realized that keeping jump, slide and forward pressed breaks everything... might need a big refactor tomorrow...
 
 # 2024-03-13
 - Unity prototyping
