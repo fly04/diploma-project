@@ -6,6 +6,11 @@ En travaillant sur l'implémentation du slide jump, je me suis rendu compte de t
 https://github.com/fly04/diploma-project/assets/46554723/07795f4b-9874-4498-8238-ca67345f15e2
 
 
+##  Recherche d'esthétique
+Pour faire une petite pause sur le code des mouvements, j'ai retravaillé quelques animations récupérées sur Mixamo et je me suis amusé avec des render passes pour chercher une esthétique sympa. Voici le résultat pour l'instant :
+
+
+
 # More on character controller and level design process (2024-03-13)
 ## Retours sur les tutoriels
 J'ai terminé la série de tutoriel mentionnée précédemment. Toutefois, j'ai rencontré certains problèmes avec le fonctionnement proposé. J'ai donc décidé de faire des tests personnels avec toutes les manières que j'ai pu voir passer jusqu'ici, à savoir utiliser un character controller, utiliser un rigidbody en fixant manuellement la vélocité et utiliser un rigidbody en lui appliquant des forces. Finalement, j'ai choisi de travailler avec cette dernière solution car, si elle ne me permet pas d'être aussi précis que en défissant la vélocité, elle me permet plus facilement de gérer les différents cas de figures.
