@@ -10,6 +10,8 @@ https://github.com/fly04/diploma-project/assets/46554723/07795f4b-9874-4498-8238
 Pour faire une petite pause sur le code des mouvements, j'ai retravaillé quelques animations récupérées sur Mixamo et je me suis amusé avec des render passes pour chercher une esthétique sympa. Voici le résultat pour l'instant :
 
 
+https://github.com/fly04/diploma-project/assets/46554723/411abad7-e0be-40c7-b768-0673a11778c5
+
 
 # More on character controller and level design process (2024-03-13)
 ## Retours sur les tutoriels
