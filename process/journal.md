@@ -1,3 +1,13 @@
+# 2024-03-19
+- (Re)Added some animations
+- Toyed with visuals to find a cool aesthetic (and took a break from movements...) 
+
+# 2024-03-18
+- Continued working on movements (move around, jump, slope handeling, slide, slide jump)
+
+# 2024-03-15
+- Started from scratch with a new way of handling movements
+
 # 2024-03-14
 - Call with Stéphanie
 - Slide Jump prototyping
