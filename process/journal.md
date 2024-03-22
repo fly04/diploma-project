@@ -1,3 +1,11 @@
+# 2024-03-22
+- Finished boosting and jetpacking
+- Prepared playground
+- Read stuff on Unity terrains and UI
+
+# 2024-03-21
+- Worked on boosting and jetpacking
+
 # 2024-03-19
 - (Re)Added some animations
 - Toyed with visuals to find a cool aesthetic (and took a break from movements...) 
