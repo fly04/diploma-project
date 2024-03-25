@@ -11,6 +11,7 @@ Controls :
 - Jetpack : right trigger when in air (needs energy)
 
 → [Demo](./2024-25-03-demo-mouvements-macOS.zip) (macOS)
+→ [Demo](./2024-25-03-demo-mouvements-winOS.zip) (windows)
 
 ## 2024-13-03
 Controls :
