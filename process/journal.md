@@ -1,3 +1,7 @@
+# 2024-03-25
+- Prepared demo
+- Documentation on LD
+
 # 2024-03-22
 - Finished boosting and jetpacking
 - Prepared playground
