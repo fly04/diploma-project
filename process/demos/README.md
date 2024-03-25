@@ -10,7 +10,7 @@ Controls :
 - Boost : right trigger when moving (needs energy)
 - Jetpack : right trigger when in air (needs energy)
 
-→ [Demo](./2024-25-03-demo-mouvements-macOS.zip)
+→ [Demo](./2024-25-03-demo-mouvements-macOS.zip) (macOS)
 
 ## 2024-13-03
 Controls :
@@ -19,4 +19,4 @@ Controls :
 - South button (X/A) to jump
 - When running, L2/LT to slide
 
-→ [Demo](./2024-13-03-demo-mouvements.zip)
+→ [Demo](./2024-13-03-demo-mouvements.zip) (Windows)
