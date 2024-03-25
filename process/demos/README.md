@@ -2,15 +2,16 @@
 
 ## 2024-25-03
 Controls :
-- Move : left stick
-- Look : right stick
-- Jump : south button
-- Slide : left trigger when moving
-- Slide Jump : south button when sliding
-- Boost : right trigger when moving (needs energy)
-- Jetpack : right trigger when in air (needs energy)
+- **Move** : left stick
+- **Look** : right stick
+- **Jump** : south button
+- **Slide** : left trigger when moving
+- **Slide Jump** : south button when sliding
+- **Boost** : right trigger when moving (needs energy)
+- **Jetpack** : right trigger when in air (needs energy)
+- **Reset to starting position** : back button
 
-→ [Demo](./2024-25-03-demo-mouvements-macOS.zip) (macOS)
+→ [Demo](./2024-25-03-demo-mouvements-macOS.zip) (macOS)<br>
 → [Demo](./2024-25-03-demo-mouvements-winOS.zip) (windows)
 
 ## 2024-13-03
