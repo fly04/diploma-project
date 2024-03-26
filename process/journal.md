@@ -1,7 +1,10 @@
+# 2024-03-26
+- Worked on action block (follow light in fog)
+
 # 2024-03-25
 - Prepared demo
 - Documentation on LD
-- Starting to work on action blocks
+- Starting to work on action blocks (plateforming)
 
 # 2024-03-22
 - Finished boosting and jetpacking

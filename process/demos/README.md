@@ -21,4 +21,4 @@ Controls :
 - South button (X/A) to jump
 - When running, L2/LT to slide
 
-→ [Demo](./2024-13-03-demo-mouvements.zip) (Windows)
+→ [Demo](./2024-13-03-demo-mouvements.zip) (windows)
