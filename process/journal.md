@@ -1,3 +1,6 @@
+# 2024-03-27
+- Presentation day
+
 # 2024-03-26
 - Worked on action block (follow light in fog)
 
