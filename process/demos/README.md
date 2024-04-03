@@ -11,10 +11,10 @@ Controls :
 - **Jetpack** : left trigger when in air (needs energy)
 - **Reset to starting position** : back button
 
-<sub>
+<p><sub>
 PS : J'ai rajouté des TPs (blocs bleus) pour aller de scène en scène.<br>
 PS2 : Le motion blur et FOV pour le moment sont juste on/off, mais il faudrait qu'ils augmentent progressivement avec la vitesse à terme (j'imagine)
-</sub>
+</sub></p>
 
 → [Demo](./2024-03-04-demo-mouvements-winOS.zip) (windows)
 
