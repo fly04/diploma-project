@@ -1,5 +1,10 @@
 # Demos
 
+## 2024-10-04
+Controls : same as before
+<br>
+→ [Demo](./2024-04-10-demo-winOS.zip) (windows)
+
 ## 2024-03-04
 Controls :
 - **Move** : left stick

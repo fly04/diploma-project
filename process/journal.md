@@ -1,3 +1,19 @@
+# 2024-04-10
+- Added a few sound effects
+- Tried to add footprints on ground (but failed)
+- Took some time to read about game feel
+- Added tilting on movement and on slopes
+- Enhanced dialogue visuals
+
+# 2024-04-09
+- Implemented meh working dialogues (might be ok for now)
+
+# 2024-04-08
+- Finished lever and started implementing dialogue system
+
+# 2024-03-08
+- Trying to implement interact with lever to activate bridge
+
 # 2024-03-27
 - Presentation day
 
