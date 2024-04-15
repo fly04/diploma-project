@@ -1,8 +1,14 @@
 # Update (2024-04-11)
 ## Avancement
 - Le character controller avance bien. Je continue de le tweaker au fur et à mesure selon les besoins et retours mais le gros des mouvement est là.
-- J'ai commencé à travailler sur des [action blocks](https://www.youtube.com/watch?v=CkHGuHd9BgU) : plateforming, suivre des lumières dans la brume, dialogues, interactions pour débloquer un cheminm, ...
+- J'ai commencé à travailler sur des [action blocks](https://www.youtube.com/watch?v=CkHGuHd9BgU) : plateforming, suivre des lumières dans la brume, dialogues, interactions pour débloquer un chemin, ...
 - Plein de petites améliorations : sfx, tilting, calibrage des valeurs, ...
+
+
+
+https://github.com/fly04/diploma-project/assets/46554723/b904d38d-b78a-4cdd-b935-9d78a70c00ca
+
+
 
 ## Observations
 - En jouant et en faisant tester à d'autres, je me suis rendu compte qu'il serait satifsaisant de pouvoir enchainer slide jump slide jump ... toutefois cela pourrait impliquer une accumulation de vitesse infinie, à voir si cela fera sens plus tard.
