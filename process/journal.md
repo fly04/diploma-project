@@ -1,3 +1,29 @@
+# 2024-04-22
+- Call with Stéphanie
+
+# 2024-04-19
+- Day OFF
+
+# 2024-04-18
+- Small fixes and cleanup
+
+# 2024-04-17
+- Mid jury day
+
+# 2024-04-16
+- Worked on presentation slides and content
+- Worked on presentation demo
+
+# 2024-04-15
+- Worked on presentation demo
+
+# 2024-04-12
+- Worked on presentation demo
+
+# 2024-04-11
+- Call with Stéphanie
+- Worked on presentation demo
+
 # 2024-04-10
 - Added a few sound effects
 - Tried to add footprints on ground (but failed)
