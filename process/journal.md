@@ -1,5 +1,7 @@
 # 2024-04-22
 - Call with Stéphanie
+- Changed animation from generic to humanoid + added landing animation
+- Fixed motion blur and FOV
 
 # 2024-04-19
 - Day OFF
