@@ -1,3 +1,9 @@
+# 2024-04-24
+- Labo communication : lecture + started working on presskit
+
+# 2024-04-23
+- Implement moving plateforms (connected to energy) 
+
 # 2024-04-22
 - Call with Stéphanie
 - Changed animation from generic to humanoid + added landing animation
